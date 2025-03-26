@@ -23,4 +23,5 @@ Sou estudante do curso de engenharia de software, e atualmente trabalho como ass
   
 </div>
 
+
 ![Snake animation](https://github.com/Ryann100/Ryann100/blob/output/snake.svg)
