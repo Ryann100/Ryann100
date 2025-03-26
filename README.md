@@ -22,3 +22,5 @@ Sou estudante do curso de engenharia de software, e atualmente trabalho como ass
   <a href="https://www.linkedin.com/in/ryann-oliveira-968898247" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github.com/Ryann100/Ryann100/blob/output/snake.svg)
