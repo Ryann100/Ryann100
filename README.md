@@ -1,9 +1,10 @@
 ## Olá eu sou o Ryann Oliveira, sejam bem vindos ao meu perfil!
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
+
 Sou estudante do curso de engenharia de software, e atualmente trabalho como assistente de TI na empresa [Mello Transportes](https://www.mellotransportes.log.br/)
 
-
-  ![Estatísticas do GitHub de Ryann100](https://github-readme-stats.vercel.app/api?username=Ryann100\&rank_icon=github&theme=tokyonight)
 
   ##
 
